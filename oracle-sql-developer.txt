@@ -6,6 +6,10 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Oracle SQL Developer
 
 
-Database client used at State of Alaska DNR GIS.
+State of Alaska DNR GIS workstation has:
+  Oracle SQL Developer v4.4.21 Build MAIN-21.21
+  Java 1.6.0_91
+  Oracle IDE 4.1.4.21.21
+
 
 
