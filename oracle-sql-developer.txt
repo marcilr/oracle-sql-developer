@@ -34,6 +34,11 @@ click Next
 Very peculiar message since trying to import connections not export.
 Jeff is going to send me his copy and instructions as relevent.
 
+From Jeff:
+  Here is my google search result ORACLE_HOME\network\admin.
+  Here is a location of one of the ones on my box
+  "<C:\Users\jdjasper\Downloads\sqldeveloper-4.2.0.16.356.1154-x64\sqldeveloper >"
+
 
 Installed under windows 10 at:
   C:\oracle\product\12.2.0\client_1\sqldeveloper\sqldeveloper.exe
