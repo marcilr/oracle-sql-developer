@@ -12,7 +12,7 @@ State of Alaska DNR GIS workstation has database client:
   Oracle IDE 4.1.4.21.21
 
 Installed under windows 10 at:
-  C:\oracle\[product\12.2.0\client_1\sqldeveloper\sqldeveloper.exe
+  C:\oracle\product\12.2.0\client_1\sqldeveloper\sqldeveloper.exe
   right-click sqldeveloper.exe > Ping to taskbar
   
 
