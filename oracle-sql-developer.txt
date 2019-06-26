@@ -1,0 +1,11 @@
+oracle-sql-developer.txt
+Created Wed Jun 26 08:01:24 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Oracle SQL Developer
+
+
+Database client used at State of Alaska DNR GIS.
+
+
