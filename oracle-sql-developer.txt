@@ -16,5 +16,10 @@ Installed under windows 10 at:
   right-click sqldeveloper.exe > Ping to taskbar
 
 Now need to track down tnsnames.ora for sql connections
-
+  Couple of hits in oracle folder:
+    C:\oracle\product\12.2.0\client_1\network\admin\tnsnames-12c.ora
+      Has prod, test, and dev databases listed
+    
+    C:\oracle\product\12.2.0\client_1\network\admin\tnsnames.ora
+      Only has syntax for tnsnames.ora
 
